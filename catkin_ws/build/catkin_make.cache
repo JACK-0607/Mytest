@@ -1,0 +1,2 @@
+topic_example:usb_cam-develop
+-DCATKIN_DEVEL_PREFIX=/home/xiaofei/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xiaofei/catkin_ws/install -G Unix Makefiles
